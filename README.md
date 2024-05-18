@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ammar Abbas
 - 👀 I’m interested in computer science and software development
 - 🌱 I’m currently learning Python, Java, HTML, and CSS
-- 💞️ I’m looking to collaborate on building a robot for FRC
-- 😄 Pronouns: he/him
+- 💞️ I’m looking to learn more about programming
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm a Muslim
 
 <!---
