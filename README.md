@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ammar Abbas
 - 👀 I’m interested in computer science and software development
-- 🌱 I’m currently learning Python, Java, HTML, and CSS
+- 🌱 I’m currently learning Python, Java, HTML, and CSS and want to learn JS, C#, and C++.
 - 💞️ I’m looking to learn more about programming
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm a Muslim
